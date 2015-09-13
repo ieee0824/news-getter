@@ -1,6 +1,6 @@
 # yomiuri-new
-読売オンラインの新着ニュースを取得します
-[新着ニュース][http://www.yomiuri.co.jp/latestnews/]
+読売オンラインの新着ニュースを取得します  
+[新着ニュース](http://www.yomiuri.co.jp/latestnews/)
 
 ## Install
 ```
